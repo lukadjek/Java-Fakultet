@@ -18,7 +18,7 @@ Programom upravlja korisnik preko tastature.
   Ako izabere opciju «NE», program ga vraca nazad u glavni meni i zahvaljuje na daljem nastavljanju. 
   Ako izabere opciju «DA», program ga mora pitati za ocenu koja mora biti u rangu 5-10 i onda u skladu sa datom ocenom (nakon cekanja od 5 sekundi) daje komentar uz kreiranje izvestaja koji sadrzi ime i prezime osobe koja je napravila program i kao ocenu koju je korisnik dao.
 	
-    b) 1. Pregled svih studenata - izborom ove opcije prikazuju se 			predmeti tj. tabela koja sadrzi redni broj predmeta, sifru predmeta i 		naziv predmeta (predefinisani u programu)
+    b) 1. Pregled svih predmeta - izborom ove opcije prikazuju se 			predmeti tj. tabela koja sadrzi redni broj predmeta, sifru predmeta i 		naziv predmeta (predefinisani u programu)
 	
     c) 2. Pregled svih studenata - izborom ove opcije se prikazuju 			studenti tj. tabela koja sadrzi redni broj predmeta, broj indeksa, 			godina upisa, ime, prezime, naziv predmeta, ocena, danasnji datum 		(predefinisani u programu);
 	
