@@ -30,6 +30,6 @@ Programom upravlja korisnik preko tastature.
 	
     g) 6. Izmena podatka o studentu - izborom ove opcije pruza se 			korisniku mogucnost da prijavi novi predmet za izabranog studenta. 		Obavezan je unos sledecih podataka: redni broj studenta za koga 		treba da se prijavi novi predmet, novi naziv predmeta (koji ne moze 		imati isti naziv kao vec postojeci naziv). Ukoliko se unese novi naziv 		onda se ta promena belezi u sistemu i studentu se daje ocena 5 dok 		ga ne polozii. Ukoliko se unese vec postojeci naziv, onda se isti ne 		ubacuje u sistem.
 
-3. Napomene: korisnik ima pravo na 1 gresku prilikom kretanja kroz glavni meni (opcija mora da bude izmedju 0-6 i unos karaktera je zabranjen). U slucaju da napravi i drugu gresku onda se program mora prekinuti.
+3. Napomene: korisnik ima pravo na 1 gresku prilikom kretanja kroz glavni meni (opcija mora da bude izmedju 0-6 i unos karaktera je zabranjen). U slucaju da napravi i drugu gresku onda se program prekida.
 
 
