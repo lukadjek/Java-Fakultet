@@ -16,7 +16,7 @@ Programom upravlja korisnik preko tastature.
 
 	a) 0. Prekini program - izborom ove opcije mora se korisnik jos jednom pitati da li je siguran da zeli da prekine sa programom (moze uneti samo «DA» ili «NE»). 
   Ako izabere opciju «NE», program ga vraca nazad u glavni meni i zahvaljuje na daljem nastavljanju. 
-  Ako izabere opciju «DA», program ga mora pitati za ocenu koja mora biti u rangu 5-10 i onda u skladu sa datom ocenom (nakon cekanja od 5 sekundi) daje komentar uz kreiranje izvestaja koji sadrzi ime i prezime osobe koja je napravila program i kao ocenu koju je korisnik dao.
+  Ako izabere opciju «DA», program ga mora pitati za ocenu koja se odnosi na zadovoljstvo koriscenja programa i koja mora biti u rangu 5-10 i onda u skladu sa datom ocenom (nakon cekanja od 5 sekundi) daje komentar uz kreiranje izvestaja koji sadrzi ime i prezime osobe koja je napravila program i kao ocenu koju je korisnik dao.
 	
     b) 1. Pregled svih predmeta - izborom ove opcije prikazuju se 			predmeti tj. tabela koja sadrzi redni broj predmeta, sifru predmeta i 		naziv predmeta (predefinisani u programu)
 	
